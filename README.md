@@ -1,6 +1,5 @@
-# NextJs 14 Template
-
-This repository is a template for my own personal NextJs 14 projects. It includes the following:
+This is week1 assignment, create counter app with next Typescript, Eslint and Husky
+@devsacle.id
 
 - [NextJs 14](https://nextjs.org/)
 - [TypeScript](https://www.typescriptlang.org/)
